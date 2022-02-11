@@ -3,10 +3,10 @@
 
 This is my first project about COVID-19
 
-I extracted data from https://ourworldindata.org/covid-deaths (file: )
+I extracted data from https://ourworldindata.org/covid-deaths (Dataset File is in repository)
 This dataset was last updated Feburary 4th, 2022
 
-I broke the data up into two different tables. One for COVID-19 Deaths, and the other for COVID-19 Vaccinations.
+I broke the data up into two different tables with columns related to deaths, and columns related to vaccines. One for COVID-19 Deaths, and the other for COVID-19 Vaccinations.
 
 I ran a few different queries, breaking the data down into different categories using SQL:
 
@@ -20,7 +20,3 @@ I ran a few different queries, breaking the data down into different categories 
 8. List of created views
 
 I then imported the data into tableau to create a few visualizations. (Link: https://public.tableau.com/app/profile/elijah.thompson3946/viz/COVID-19Dashboard_16441121646540/Dashboard1)
-
-
-
-
