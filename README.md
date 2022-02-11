@@ -3,7 +3,7 @@
 
 This is my first project about COVID-19
 
-I extracted data from https://ourworldindata.org/covid-deaths (Dataset File is in repository)
+I extracted data from https://ourworldindata.org/covid-deaths (Dataset Files are in repository)
 This dataset was last updated Feburary 4th, 2022
 
 I broke the data up into two different tables with columns related to deaths, and columns related to vaccines. One for COVID-19 Deaths, and the other for COVID-19 Vaccinations.
