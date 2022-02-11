@@ -8,7 +8,7 @@ This dataset was last updated Feburary 4th, 2022
 
 I broke the data up into two different tables, taking columns related to deaths and putting them in one table, then taking columns related to vaccines and putting them in a different table.
 
-I ran a few different queries, breaking the data down into different categories using SQL:
+I ran a few different queries, breaking the data down into different categories using SQL (SQL_Query File is in repository):
 
 1. DeathPercentage for each country;
 2. PercentOfPopulationInfected by country per day;
